@@ -1,0 +1,3 @@
+LAB 6 LOGBOOK <sanskar soni> <e26b07f0732>
+SETUP: my working directory is lab06-os-and-filesystem
+T1 prediction: I think ls / will show about lab06-os-and-filesystem items
